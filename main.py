@@ -7,7 +7,7 @@ if __name__ == "__main__":
     structurer = StructuringLaw(
         api_key=config.api_key,
         base_url=config.base_url,
-        model_name=config.structuring_model,
+        model_name=config.model_name,
         prompt_path="prompts/prompt_chunk.txt",
         output_path="data/json/test_output.json"
     )
