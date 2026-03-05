@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3edecdd6-04ea-4277-a5e8-77c6d9d28a23" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/config.py.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/legal_text_processor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_rag_agent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tree_searcher.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/hierarchizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/structurer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/vectorizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TreeRagAgent.py" beforeDir="false" afterPath="$PROJECT_DIR$/deprecated/TreeRagAgent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/json/2.json" beforeDir="false" afterPath="$PROJECT_DIR$/deprecated/2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/json/3.json" beforeDir="false" afterPath="$PROJECT_DIR$/deprecated/3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/json/test_output.json" beforeDir="false" afterPath="$PROJECT_DIR$/deprecated/test_output.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/deprecated/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/build_tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/deprecated/build_tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/embeddings.py" beforeDir="false" afterPath="$PROJECT_DIR$/deprecated/embeddings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/structuring.py" beforeDir="false" afterPath="$PROJECT_DIR$/deprecated/structuring.py" afterDir="false" />
-    </list>
+    <list default="true" id="3edecdd6-04ea-4277-a5e8-77c6d9d28a23" name="更改" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +162,7 @@
       <workItem from="1772702413627" duration="314000" />
       <workItem from="1772702742363" duration="304000" />
       <workItem from="1772703059081" duration="513000" />
-      <workItem from="1772703610583" duration="16519000" />
+      <workItem from="1772703610583" duration="16843000" />
     </task>
     <servers />
   </component>
