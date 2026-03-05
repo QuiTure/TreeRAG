@@ -1,5 +1,11 @@
-langchain-core>=0.3.0
-langchain-openai>=0.2.0
-langchain-community>=0.3.0
-torch>=2.0.0
-openai>=1.0.0
+# 核心框架 - 用于构建 Agent (tree_rag_agent.py)
+langchain>=0.1.0
+
+# OpenAI 适配器 - 用于调用 SiliconFlow/DeepSeek/MiniMax 等兼容接口 (structurer.py, vectorizer.py)
+langchain-openai>=0.1.0
+
+# 基础组件 - 用于 PromptTemplate 和消息格式 (structurer.py, tree_rag_agent.py)
+langchain-core>=0.1.0
+
+# 数学计算 - 用于计算余弦相似度和处理向量 (tree_searcher.py, tree_rag_agent.py)
+numpy>=1.24.0
